@@ -1,0 +1,362 @@
+[
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_Raider.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_Raider.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_Raider.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderCameraManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderCameraManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Crypt_RaiderPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Horror\\HorrorUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\EnvQueryContext_Target.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\EnvQueryContext_Target.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\ShooterNPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\ShooterNPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\ShooterStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\AI\\ShooterStateTreeUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterBulletCounterUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterBulletCounterUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterPickup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterPickup.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterWeapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterWeaponHolder.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\FXKZ\\formation\\Crypt_Raider\\Source\\Crypt_Raider\\Variant_Shooter\\ShooterWeaponHolder.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\FXKZ\\formation\\Crypt_Raider\\.vscode\\compileCommands_Default\\Crypt_Raider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
